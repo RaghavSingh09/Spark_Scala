@@ -1,0 +1,32 @@
+--Spark Interview Questions
+https://photos.app.goo.gl/zVdehjpm6dZEnANLA
+https://www.youtube.com/playlist?list=PL9sbKmQTkW05mXqnq1vrrT8pCsEa53std
+
+
+https://www.dezyre.com/article/top-100-hadoop-interview-questions-and-answers-2019/159
+Smart Anti-Theft Laptop Bag
+
+Course 20762C: Developing SQL Databases
+https://courses.edx.org/dashboard
+
+--For twitter API
+I am learning scala and spark programming language. In spark we have spark streaming and de-streaming concept. This requires some web server or api to generate data. Twitter API will help me getting that amount of data and perform some basic analysis on it.
+
+--Udemy Courses to look for
+https://www.udemy.com/course/tableau-2018-tableau-10-qualified-associate-certification/
+https://www.udemy.com/course/msbi-ssis-ssas-ssrs/
+https://www.udemy.com/course/business-data-analysis-using-microsoft-power-bi/
+https://www.udemy.com/course/hands-on-hadoop-masterclass-tame-the-big-data/
+https://www.udemy.com/course/ai-master-class/
+
+--Github
+https://github.com/dgadiraju
+https://github.com/rockthejvm --For Scala
+
+--Data
+https://sundog-education.com/spark-scala/
+
+--CCA 175 Dumps and Q&A
+https://www.itexams.com/exam/CCA175
+CCA 175 Hadoop & Spark Developer Practice Tests
+https://www.quora.com/Is-anyone-plannig-to-give-CCA175-Certification-If-yes-how-are-you-preparing-for-it

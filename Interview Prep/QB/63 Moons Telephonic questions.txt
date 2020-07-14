@@ -1,0 +1,39 @@
+63 Moons Telephonic questions
+What is Hadoop?
+Components of Hadoop?
+What is MR?
+No of I/p splits?
+Hadoop ecosystem?
+Resource manager?
+Where it resides ?
+Components of DN?
+High availability?
+How NN works?
+Services run on NN?
+Which platform you are working on?
+Have you created job?
+What is sqoop?
+Parameter used for table in sqoop?
+How to import data in avro file using sqoop? Which parameter we use?
+Can we direct import data from RDBMS to Hive?
+What is hive?
+Different file system in hive?
+How we load data to into hive table?
+What is pig?
+Loading data using pig?
+What is Hbase?
+What is Flume?
+Have you done that twitter job?
+What configuration you  did?
+What is Solr?
+Zookeeper?
+What lines about zookeeper are displayed when we run sqoop command?
+Do you know MySQL?
+MySQL version?
+Which engine u have used?
+What is triggers ?
+Which table you use to check all data?
+Syntax for trigger?
+What business logic you have implemented in Ur project?
+Apache binary configuration
+Which are those files when we configure Hadoop?

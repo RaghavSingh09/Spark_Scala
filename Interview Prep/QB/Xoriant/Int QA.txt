@@ -1,0 +1,5 @@
+1. 3rd highest salary per dept wise/ rank dens rank/ spark RDD
+2. spark job optimization stages task executors
+3. dict 4 items a:1, b:a, c:2, d:c -> a:1, b:1, c:2, d:2
+4. python palindrome
+5. 

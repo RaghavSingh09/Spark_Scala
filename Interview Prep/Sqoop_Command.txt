@@ -1,0 +1,28 @@
+https://linoxide.com/tools/import-data-mysql-hdfs-sqoop/
+https://www.alpha-epsilon.de/cca175/2017/07/21/using-sqoop-to-move-data-between-hdfs-and-mysql/
+
+--Test sqoop is installed or not
+sqoop help
+
+--MySql Checks
+mysql -u UN -p
+Enter Password
+(UN - root, PWD - cloudera)
+
+--Import Commands without mapper and target dir info.
+sqoop import --connect jdbc:mysql://localhost/Hadoop_RDBMS --username root --password cloudera --table Accounts
+
+
+--Import Commands with mapper and target dir info.
+sqoop import --connect jdbc:mysql://localhost/Hadoop_RDBMS --username root --password cloudera --table Accounts --m 1 --target-dir /hdfs_rdbms_import
+
+--Import-all databases and their objects using sqoop
+--Import with where clause on tables
+--Export commands
+--List databases, tables of RDBMS from sqoop
+
+AI is becoming a next weapon for computer expert. AI automation is in the next level
+val sen = sc.parallelize(Array("AI is becoming a next weapon for computer expert. AI automation is in the next level"))
+val splitBySpace = sen.flatMap(ele => ele.split(" "))
+val splitBySpace1 = splitBySpace.map(ele => (ele,1))
+val res = splitBySpace1.reduceByKey((x,y)=>x+y).filter(x=>x=="AI").collect
